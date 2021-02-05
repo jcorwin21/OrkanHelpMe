@@ -1,0 +1,16 @@
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.RazorTargetAssemblyInfo.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\staticwebassets\BLL.StaticWebAssets.Manifest.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\staticwebassets\BLL.StaticWebAssets.xml
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\OUT-Malkov-FA\source\repos\Layers\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

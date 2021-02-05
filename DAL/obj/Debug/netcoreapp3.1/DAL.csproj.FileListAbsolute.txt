@@ -1,0 +1,13 @@
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.RazorTargetAssemblyInfo.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\staticwebassets\DAL.StaticWebAssets.Manifest.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\staticwebassets\DAL.StaticWebAssets.xml
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\OUT-Malkov-FA\source\repos\Layers\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
